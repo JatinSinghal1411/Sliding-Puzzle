@@ -11,3 +11,8 @@ The goal of the game is to arrange the shuffled tiles in the correct order by sl
 - Smooth animations for tile movement
 - Winning detection when the puzzle is solved
 - Clean and responsive design
+
+---
+
+## 🚀 Play the Game
+👉 [Click here to play](https://jatinsinghal1411.github.io/Sliding-Puzzle/)
